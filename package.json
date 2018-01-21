@@ -1,0 +1,15 @@
+{
+  "name": "avclient",
+  "version": "1.0.0",
+  "description": "simple node client to send vehicle status vi web socket",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^4.0.0"
+  }
+}
